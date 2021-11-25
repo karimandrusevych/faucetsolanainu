@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SPL_Faucet/static/css/main.e83673ed.chunk.css",
+    "main.js": "/SPL_Faucet/static/js/main.a84953f9.chunk.js",
+    "main.js.map": "/SPL_Faucet/static/js/main.a84953f9.chunk.js.map",
+    "runtime-main.js": "/SPL_Faucet/static/js/runtime-main.2b3c0eac.js",
+    "runtime-main.js.map": "/SPL_Faucet/static/js/runtime-main.2b3c0eac.js.map",
+    "static/css/2.45b12ad2.chunk.css": "/SPL_Faucet/static/css/2.45b12ad2.chunk.css",
+    "static/js/2.075150a3.chunk.js": "/SPL_Faucet/static/js/2.075150a3.chunk.js",
+    "static/js/2.075150a3.chunk.js.map": "/SPL_Faucet/static/js/2.075150a3.chunk.js.map",
+    "static/js/3.d4e37a21.chunk.js": "/SPL_Faucet/static/js/3.d4e37a21.chunk.js",
+    "static/js/3.d4e37a21.chunk.js.map": "/SPL_Faucet/static/js/3.d4e37a21.chunk.js.map",
+    "index.html": "/SPL_Faucet/index.html",
+    "static/css/2.45b12ad2.chunk.css.map": "/SPL_Faucet/static/css/2.45b12ad2.chunk.css.map",
+    "static/css/main.e83673ed.chunk.css.map": "/SPL_Faucet/static/css/main.e83673ed.chunk.css.map",
+    "static/js/2.075150a3.chunk.js.LICENSE.txt": "/SPL_Faucet/static/js/2.075150a3.chunk.js.LICENSE.txt",
+    "static/media/solanainu-logo-sm.134399a2.png": "/SPL_Faucet/static/media/solanainu-logo-sm.134399a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3c0eac.js",
+    "static/css/2.45b12ad2.chunk.css",
+    "static/js/2.075150a3.chunk.js",
+    "static/css/main.e83673ed.chunk.css",
+    "static/js/main.a84953f9.chunk.js"
+  ]
+}
